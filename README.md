@@ -2,7 +2,7 @@
 
 [demo page](https://ryota548.github.io/vue-cubic-bezier/)
 
-> A Vue.js project
+> A Vue.js Project
 
 ## Build Setup
 
