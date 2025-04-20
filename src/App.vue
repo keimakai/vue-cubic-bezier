@@ -46,7 +46,7 @@ export default {
 <style lang='stylus'>
 body
   margin 0
-  background #f1f1f1
+  background #000000
 #app
   font-family 'Avenir', Helvetica, Arial, sans-serif
   -webkit-font-smoothing antialiased
